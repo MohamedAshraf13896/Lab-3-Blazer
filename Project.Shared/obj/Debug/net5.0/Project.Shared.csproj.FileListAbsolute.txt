@@ -1,0 +1,11 @@
+E:\Blazor\day3\Project\Project.Shared\bin\Debug\net5.0\Project.Shared.deps.json
+E:\Blazor\day3\Project\Project.Shared\bin\Debug\net5.0\Project.Shared.dll
+E:\Blazor\day3\Project\Project.Shared\bin\Debug\net5.0\ref\Project.Shared.dll
+E:\Blazor\day3\Project\Project.Shared\bin\Debug\net5.0\Project.Shared.pdb
+E:\Blazor\day3\Project\Project.Shared\obj\Debug\net5.0\Project.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Blazor\day3\Project\Project.Shared\obj\Debug\net5.0\Project.Shared.AssemblyInfoInputs.cache
+E:\Blazor\day3\Project\Project.Shared\obj\Debug\net5.0\Project.Shared.AssemblyInfo.cs
+E:\Blazor\day3\Project\Project.Shared\obj\Debug\net5.0\Project.Shared.csproj.CoreCompileInputs.cache
+E:\Blazor\day3\Project\Project.Shared\obj\Debug\net5.0\Project.Shared.dll
+E:\Blazor\day3\Project\Project.Shared\obj\Debug\net5.0\ref\Project.Shared.dll
+E:\Blazor\day3\Project\Project.Shared\obj\Debug\net5.0\Project.Shared.pdb

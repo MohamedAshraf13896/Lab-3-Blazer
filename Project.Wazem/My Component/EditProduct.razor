@@ -1,0 +1,89 @@
+﻿@page "/Product/Edit/{id:int}"
+@using Project.Shared
+@using Project.Wazem.Services
+@inject IServices<Category> CatService
+@inject IServices<Product> ProService
+@*@inject NavigationManager navManager*@
+
+<h3>ProductEdit</h3>
+@if (product != null)
+{
+    <EditForm Model="product" OnValidSubmit="Save" >
+        <DataAnnotationsValidator></DataAnnotationsValidator>
+        <ValidationSummary></ValidationSummary>
+        <div>
+            <label>Name</label>
+            <InputText @bind-Value="product.ProducrtName" class="form-control"></InputText>
+            <ValidationMessage For="()=>product.ProducrtName" class="text-danger"></ValidationMessage>
+            @*<ValidationMessage For=@(()=>Employee.Name)></ValidationMessage>*@
+        </div>
+        <div>
+            <label>Salary</label>
+            <InputNumber @bind-Value="product.price" class="form-control"></InputNumber>
+            <ValidationMessage For="()=>product.price" class="text-danger"></ValidationMessage>
+            
+        </div>
+       @* <div>
+            <label>Image</label>
+            <InputText @bind-Value="product.CategoryId" class="form-control"></InputText>
+            <ValidationMessage For="()=>Employee.Image" class="text-danger"></ValidationMessage>
+        </div>*@
+        <div>
+            <label>Category</label>
+            @*<InputNumber @bind-Value="Employee.Dept_Id" class="form-control"></InputNumber>*@
+            <InputSelect @bind-Value="product.CategoryId" class="form-control">
+                @foreach (var item in catList)
+                   {
+                       <option value="@item.Id">@item.Name</option>
+                   }
+            </InputSelect>
+            <ValidationMessage For="()=>product.CategoryId" class="text-danger"></ValidationMessage>
+
+        </div>
+        <input type="submit" value="Update" class="btn btn-success">
+        <h3>@MsgErrot</h3>
+    </EditForm>
+    @product.ProducrtName
+    @product.price
+  
+    @product.CategoryId
+}else
+{
+    <h3>Employee Not Found</h3>
+}
+
+
+@code {
+    [Inject]//Service Provider
+    public NavigationManager navManager { get; set; }
+
+    public string MsgErrot { get; set; } = "";
+
+
+    [Parameter]
+    public int id { get; set; }
+
+    public Product product { get; set; }
+
+    public List<Category> catList { get; set; }
+    protected override async Task OnInitializedAsync()
+    {
+        product = await ProService.GetByID(id);
+        catList = await CatService.GetAll();
+       
+        await base.OnInitializedAsync();
+    }
+    public void Save()//model Valid
+    {
+        //Save Data
+        MsgErrot = "";
+        ProService.Update(id, product);
+        Console.WriteLine(product);
+            Console.WriteLine("Data Served Success");
+            //REdirect Index ,Details
+            //use navManager
+            navManager.NavigateTo("/Product");
+        }
+        
+    }
+}

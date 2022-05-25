@@ -1,0 +1,1288 @@
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\Project.Wazem.StaticWebAssets.xml
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\Project.Wazem.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\ref\Project.Wazem.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\Project.Wazem.pdb
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\service-worker-assets.js
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\service-worker.js
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Project.Wazem.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Project.Wazem.pdb
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.17.js.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Project.Shared.dll.gz
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.17.js
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Project.Shared.dll
+E:\Blazor\day3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Project.Shared.pdb
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\Project.Wazem.csproj.AssemblyReference.cache
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\Project.Wazem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\Project.Wazem.AssemblyInfoInputs.cache
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\Project.Wazem.AssemblyInfo.cs
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\Project.Wazem.csproj.CoreCompileInputs.cache
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\Project.Wazem.MvcApplicationPartsAssemblyInfo.cache
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\Project.Wazem.RazorComponent.input.cache
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\Project.Wazem.RazorComponent.output.cache
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\RazorDeclaration\Project.Wazem.dll
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\Project.Wazem.TagHelpers.input.cache
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\Project.Wazem.TagHelpers.output.cache
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\Project.Wazem.RazorCoreGenerate.cache
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\Razor\App.razor.g.cs
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\i36LIy5H.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\b8sviALj.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\vBMMNdFf.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\KLgAih9X.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\ZmFomWyL.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\jWbBPMDE.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\kPGHiOM8.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\Wml9j70e.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\PVJXRwNO.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\ftS+5GGR.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\gtbQaGOG.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\PUUe8rWH.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\jO2VS0uP.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\WjdaOF6C.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\G46CpQwB.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\MaER1xkR.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\CnPXgkJ8.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\kHnIGpTc.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\gCtzFMBg.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\IUbxtk+h.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\w7KVeiiQ.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\rJyC8GiD.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\YpXDwTER.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\oYuXadZn.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\PwLYwgXs.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\ruiAks48.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\H+X15cn8.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\XHrhxCFW.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\rAikhpZh.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\vlVxerGM.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\32C3aiGv.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\OlV+AF+t.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\Ur1+zw3s.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\3D5hgNRb.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\Tr8mLeuk.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\+OzDEXpC.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\y1ghaPQg.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\kb4ecSxY.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\FD+8IfRJ.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\QnO7sbvA.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\F8P+b3K4.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\kktCEEkW.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\rAgRLjnz.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\+Ne6zwGj.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\INhUoZo2.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\KFus4fp8.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\GgruRDAr.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\ueEPuixR.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\qtJXRQxi.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\pkilHFDD.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\d587VXl7.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\7iQcbPRd.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\sAqiyUR9.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\5nRSt7Iz.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\oZ4+x1zS.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\2ALMmI6O.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\a0sTNnfk.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\66pKM6An.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\n8zezBJY.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\9dBw++3k.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\4GIKUNwy.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\Z1ytw6Zb.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\MQJDJKFy.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\EGUpntI2.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\YHXbjsoS.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\VW6CWKmq.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\epHX8Czh.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\b1TPTzMe.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\oyLwHDtE.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\xTugih9U.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\LlV7+MaM.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\lWMnsNj+.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\xyztAH7w.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\Bm46oMOc.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\Bv6yuqdF.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\IV+X595U.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\p8+c+3Q5.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\2Qx6rX+7.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\UzRhVt3S.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\GmzPAWn+.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\J+BLV3UQ.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\o66P2m9f.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\fljRSg6Q.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\W94LLUFj.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\5YfhLYs2.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\YjAbgVFp.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\9nSu48w+.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\ZyFs+KDl.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\zFkh9ksm.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\b+Oqe094.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\3gF6xchq.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\Qk4MNF39.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\np2ZYVtt.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\d2wrPjwJ.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\2KmYUBG1.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\vdbynrql.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\10IxqB34.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\yNYQUb6x.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\zlUr2Yi9.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\POjGEIcG.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\SAZuSrqd.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\cETNiAH9.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\cC7FDRge.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\NGmp0yey.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\hQ+6hhz+.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\FsB9II6Y.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\5uDtN+KC.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\8+xb77KX.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\QKO7kByi.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\Fr6dVJfF.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\oKSJSWub.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\LAVFoUhX.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\L+SA4AuX.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\MEPzwuG8.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\z7jpF77q.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\3E54u63x.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\EGURbnil.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\GV3VVi7t.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\D1O5Jdq0.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\75SYQGe+.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\pI4O4POV.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\HeLANDw2.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\Jt1xOjRw.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\0mmbMX3+.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\YWnevMtD.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\Gmv8ksfk.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\FqKCAtX1.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\16YxqjqO.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\YOvbhpSj.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\J868o6jl.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\MB4RtpMe.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\wTSToqka.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\mz80+VoN.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\Lu64nyn+.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\gpHOeTn5.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\ka29Qi7W.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\pOZEF4xl.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\WGnNF1NB.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\LA+pQxYQ.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\pTYMJLnz.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\I0BalNFN.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\RWzprHO6.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\JPtnUTfw.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\JIzrPiuj.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\ktThuvN+.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\LILavcOc.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\ZYA8VETH.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\JUacthLT.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\SZis9fik.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\5XS0Onb1.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\PX26rPIY.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\H1L8paDr.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\KW4nqlj+.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\LtKLVyRE.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\fS8nNT5x.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\zaQdhpbW.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\ITgQjRDf.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\zjjVOrHR.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\J69Kw801.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\skQ7QGzr.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\snMV1+rx.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\E+e0yjjR.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\uFzdZNkD.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\mgtCoZnA.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\MgfL6Z1C.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\HZ9wdE9v.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\KGVvk4W2.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\jir4HG7d.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\mZsj3dUF.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\9vxK2hYP.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\QdnbvbZT.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\VU0W8GQX.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\k1sVUovU.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\Cdk5xl3i.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\RuZBe8Rl.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\xN3D6zpM.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\Um5NKD4+.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\jpcIoGOy.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\d9UwzZC6.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\w72VjSHS.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\9zvt0EzC.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\psBpGCQs.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\t9xsn1RF.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\2PDFjhCN.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\Db9lG7NX.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\+KzqIw38.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\qC+a7UVE.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\uWzatHy+.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\ilX8uyld.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\Nrb2Q5CG.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\5zeUPa+d.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\6Gds7Wmo.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\UGqFM3TB.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\IrPxskMI.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\Kg5JDjak.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\Phe4OyKn.gz
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\scopedcss\bundle\Project.Wazem.styles.css
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\scopedcss\projectbundle\Project.Wazem.bundle.scp.css
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\staticwebassets\Project.Wazem.StaticWebAssets.Manifest.cache
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\staticwebassets\Project.Wazem.StaticWebAssets.xml
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\Project.Wazem.RazorTargetAssemblyInfo.cache
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\Project.Wazem.csproj.CopyComplete
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\Project.Wazem.dll
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\ref\Project.Wazem.dll
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\Project.Wazem.pdb
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\serviceworkers\wwwroot\service-worker.js
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\service-worker-assets.js
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\RazorDeclaration\My Component\EditProduct.razor.g.cs
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\RazorDeclaration\My Component\ShowAllProduct.razor.g.cs
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\Razor\My Component\EditProduct.razor.g.cs
+E:\Blazor\day3\Project\Project.Wazem\obj\Debug\net5.0\Razor\My Component\ShowAllProduct.razor.g.cs
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\Project.Wazem.StaticWebAssets.xml
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\Project.Wazem.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\Project.Wazem.pdb
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\service-worker-assets.js
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\service-worker.js
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Project.Wazem.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Project.Wazem.pdb
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.17.js.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Project.Shared.dll.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.17.js
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Project.Shared.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\bin\Debug\net5.0\wwwroot\_framework\Project.Shared.pdb
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\Project.Wazem.csproj.AssemblyReference.cache
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\Project.Wazem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\Project.Wazem.AssemblyInfoInputs.cache
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\Project.Wazem.AssemblyInfo.cs
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\Project.Wazem.csproj.CoreCompileInputs.cache
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\Project.Wazem.MvcApplicationPartsAssemblyInfo.cache
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\Project.Wazem.RazorComponent.input.cache
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\RazorDeclaration\My Component\EditProduct.razor.g.cs
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\RazorDeclaration\My Component\ShowAllProduct.razor.g.cs
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\Project.Wazem.RazorComponent.output.cache
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\RazorDeclaration\Project.Wazem.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\Project.Wazem.TagHelpers.input.cache
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\Project.Wazem.TagHelpers.output.cache
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\Project.Wazem.RazorCoreGenerate.cache
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\Razor\App.razor.g.cs
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\Razor\My Component\EditProduct.razor.g.cs
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\Razor\My Component\ShowAllProduct.razor.g.cs
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\lbSJO8Qw.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\xUZyyjbr.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\3AmCkVNy.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\wkIGxTdk.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\UD9J9TRt.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\XEX63N0I.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\f0H7Srcr.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\mUUjBSIK.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\+7VRMELl.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\FSiH3NNQ.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\0DX8hl69.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\hp6ZmKdr.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\co3m3bdH.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\y+VINZwc.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\3ovyNU+Y.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\f7HNweCA.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\P5DIUzop.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\Lnczr8KK.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\fN5SQLPO.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\diamtVMB.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\9SUtwJqk.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\Vzxwbu04.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\sZJgRXHx.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\npY0P9h4.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\vd0vNd50.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\kg7lLbjH.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\CoaWStHX.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\HNxgI0JB.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\a33AMm+c.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\o9Tf9myt.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\3uUtPZ1d.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\VMAGnFfg.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\vGD6bxbv.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\caJgCrpS.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\D96X9BGh.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\adzlhSXD.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\xWf9T66p.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\dqS1ggBQ.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\LNLy+mgE.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\elXoy+sc.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\I2dffHhH.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\SWu7+jSR.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\C0U1o7zW.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\qDDb89dw.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\1DDQG7QY.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\B9Mg0QHw.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\Q1BMw1pi.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\mluBeCF6.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\OL502enk.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\t9+Dt4RZ.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\+qlX48ot.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\R8uEAZah.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\IQFZMEI3.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\cgWrrABM.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\yem2Td1a.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\3+KDdnAr.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\fVE31sz8.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\xOwv5+ex.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\m0NQRwzh.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\A7NClldR.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\PkE6iMbP.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\CzzJyNN+.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\JWMmUY3p.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\s8+NI6KH.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\HATm8dOG.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\HQpGphmy.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\93naWJ9S.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\Py6K54BK.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\Y7Fg6z+E.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\eOxVF7eU.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\AuS7j67G.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\zFy8nwc6.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\sg8q+2EC.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\qbZAC908.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\18ciElt7.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\DCd0+VXL.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\2OKxA8pB.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\FbGKFzEf.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\Q7Nfw1Nw.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\xhQmpSbY.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\nmRDd6l9.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\Aqhvnh7r.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\pe9M0OqZ.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\0+2wKCG5.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\MhG1PrIS.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\WJ0+ZR7I.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\cRbXrDk9.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\J5Qc67Di.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\XyYxMneh.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\G3zIiUZ2.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\XhvBkMGI.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\U690vp7u.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\QAYsHOME.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\8rOc9Vfo.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\rEblikGh.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\KioDaWyU.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\uKnrfrCz.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\e9sHKZal.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\lpiHx0kT.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\1U6tncCH.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\hz+4+1Us.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\tsG8szus.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\Jkeba34i.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\nCHbBFwj.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\025XuIsY.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\rxDwBsb3.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\HiWBOoO+.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\GtG1jpqj.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\uSYRWxYu.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\61Mtdu7j.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\C4PxXNYv.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\8D+c2WXh.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\LZfgtt0s.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\yJniJysW.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\8efluwph.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\oryOT4pe.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\SmVnsc4U.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\9Wrrsl+U.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\ONb7AtW+.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\i4Q0HnnG.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\fOYMDv06.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\Z2gKYKVZ.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\pdodNQG7.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\TlOcayMf.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\T0bGyAAL.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\ocE8OKWe.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\CYNlnsi3.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\L2jMuR0M.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\RsOsHvpu.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\6JZIcdII.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\wsPO9DYx.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\IXk+etSB.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\7vrZoehr.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\2iHg9oo+.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\Ke1HdpqJ.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\62qYsZqA.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\GxfyP2YE.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\xhXPJS81.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\xQq3O2O3.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\sv1Y4zOd.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\Bjm68PkM.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\ZSD7TOKO.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\U+Y5xxd7.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\c+9lJL+e.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\JEEyxuXg.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\kMzlKM4O.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\ybjTfSIv.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\R+i9L1Vz.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\QPz2hJOp.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\MowKHDB7.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\vUi2bdeE.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\+rlGCdyt.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\N+cwagwl.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\QxekqY2e.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\QBkCI0Gc.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\Bo+ByQWA.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\3YNuWoFa.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\wtOmyUwa.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\O3Wr9kVV.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\Dkzwxoxx.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\1BSFi+ia.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\lthnppnW.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\2ZIvdZdd.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\J+lpJfZc.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\96Xr7ljF.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\Ts8gdiDs.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\YXXS+sW+.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\mfRM3zv+.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\s4FiO0MO.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\qWUCFrTE.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\KVXbKeTS.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\VdpqjKXr.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\fT+hyxdH.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\1TVJgtVZ.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\pObiT8oc.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\aGvTQ23c.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\4cOayHu+.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\sTLKXNbR.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\13brjstq.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\WCfzrDiW.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\GukBZ7E1.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\G5ap+gvl.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\ChR+Ez0A.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\0NMSe4Fl.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\Tg2T5IQU.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\rsFUzSOK.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\zEkcI4Xd.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\r67Nfkpp.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\+ZubR7Mp.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\QBG1WgCT.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\+Pg+SF3c.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\eqCAjsmQ.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\v41tEY89.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\IBzvj8qk.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\1oXvav7Z.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\build-gz\uq+3f11i.gz
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\scopedcss\bundle\Project.Wazem.styles.css
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\scopedcss\projectbundle\Project.Wazem.bundle.scp.css
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\staticwebassets\Project.Wazem.StaticWebAssets.Manifest.cache
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\staticwebassets\Project.Wazem.StaticWebAssets.xml
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\Project.Wazem.RazorTargetAssemblyInfo.cache
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\Project.Wazem.csproj.CopyComplete
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\Project.Wazem.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\refint\Project.Wazem.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\Project.Wazem.pdb
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\ref\Project.Wazem.dll
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\serviceworkers\wwwroot\service-worker.js
+F:\Signal R\Lab 3\Project\Project.Wazem\obj\Debug\net5.0\service-worker-assets.js

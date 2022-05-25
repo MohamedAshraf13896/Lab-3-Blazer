@@ -1,0 +1,33 @@
+﻿@page "/Product"
+@using Project.Shared
+@using Project.Wazem.Services
+@inject IServices<Product> ProductService
+<h3>ShowAllProduct</h3>
+@if(ProductList != null)
+{
+ <table class="table table-border">
+     <tr>
+         <th>Name</th>
+         <th>Price</th>
+         <th></th>
+     </tr>
+     @foreach (var item in ProductList)
+    {
+     <tr>
+         <td>@item.ProducrtName</td>
+         <td>@item.price</td>
+         <td>@item.CategoryId</td>
+  <td><a href="/Product/Edit/@item.Id">Edit</a></td>
+     </tr>   
+    }
+ </table>   
+
+}
+@code {
+    public List<Product> ProductList { get; set; }
+    protected async  override Task OnInitializedAsync()//pareter /inject 
+    {
+        ProductList = await ProductService.GetAll();
+        await  base.OnInitializedAsync();
+    }
+}

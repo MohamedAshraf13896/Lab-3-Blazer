@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ffacb6cd-5376-4044-bc8b-f2d30faee97f": {
+      "ProjectGuid": "ffacb6cd-5376-4044-bc8b-f2d30faee97f",
+      "DisplayName": "Project.Shared",
+      "ColorIndex": 0
+    },
+    "849812be-38fe-4bcf-ad0d-a704a7b8e379": {
+      "ProjectGuid": "849812be-38fe-4bcf-ad0d-a704a7b8e379",
+      "DisplayName": "Project.WepApi",
+      "ColorIndex": 1
+    },
+    "ba39336f-e19a-413c-be38-d065bcce7368": {
+      "ProjectGuid": "ba39336f-e19a-413c-be38-d065bcce7368",
+      "DisplayName": "Project.Wazem",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
